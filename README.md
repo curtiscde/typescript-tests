@@ -1,4 +1,4 @@
-# Fix The Tests
+# Typescript Tests
 
 Simple typescript app with failing tests to fix
 
