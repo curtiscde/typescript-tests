@@ -1,2 +1,19 @@
-# fix-the-tests
+# Fix The Tests
+
 Simple typescript app with failing tests to fix
+
+## Getting Started
+
+ - Install VS Code
+ - Install npm
+ - Open Terminal
+ - Install node modules: `npm install`
+ - Run tests: `npm test`
+
+## Unskipping Tests
+
+To unskip a test, remove `.skip` from the `describe`:
+
+```
+describe.skip('test..') becomes describe('test..') 
+```
