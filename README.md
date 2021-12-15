@@ -7,6 +7,7 @@ Simple typescript app with failing tests to fix
  - Install VS Code
  - Install npm
  - Open Terminal
+ - Clone this Repository
  - Install node modules: `npm install`
  - Run tests: `npm test`
 
