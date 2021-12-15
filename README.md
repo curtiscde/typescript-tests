@@ -18,3 +18,8 @@ To unskip a test, remove `.skip` from the `describe`:
 ```
 describe.skip('test..') becomes describe('test..') 
 ```
+
+## Tests
+
+ - Sum (default example)
+ - Multiply (*skipped*)
