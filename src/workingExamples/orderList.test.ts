@@ -1,6 +1,6 @@
 import { orderList } from "./orderList";
 
-describe.skip('orderList', () => {
+describe('orderList', () => {
   const names: Array<string> = [
     'Bulbasaur',
     'Ivysaur',
