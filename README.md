@@ -1,5 +1,7 @@
 # Typescript Tests
 
+[![App CI](https://github.com/curtistimson/typescript-tests/actions/workflows/app-ci.yml/badge.svg)](https://github.com/curtistimson/typescript-tests/actions/workflows/app-ci.yml)
+
 Simple typescript app with failing tests to fix
 
 ## Getting Started
