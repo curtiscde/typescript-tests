@@ -21,5 +21,7 @@ describe.skip('test..') becomes describe('test..')
 
 ## Tests
 
- - Sum (default example)
- - Multiply (*skipped*)
+ - sum (default example)
+ - multiply (*skipped*)
+ - getTotalPrice
+ - orderList
